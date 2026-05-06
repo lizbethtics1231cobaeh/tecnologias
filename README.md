@@ -1,0 +1,2 @@
+# tecnologias
+visualizacion de textos
